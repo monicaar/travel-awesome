@@ -1,0 +1,13 @@
+.myown{
+	background: rgba(211,211,211,0.5);
+	border-radius: 6px;
+	p{
+		line-height: 1.65;
+		font-size: 1.125rem;
+		margin:1.8rem 0; 
+
+		@mixin atSmall{
+			font-size: 1.125rem;
+		}
+	}
+}
