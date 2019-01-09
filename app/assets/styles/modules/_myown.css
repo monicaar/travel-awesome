@@ -1,10 +1,11 @@
 .myown{
-	background: rgba(211,211,211,0.5);
-	border-radius: 6px;
+	
 	p{
+		font-weight: 300;
+		
 		line-height: 1.65;
 		font-size: 1.125rem;
-		margin:1.8rem 0; 
+		margin:0rem 0rem 1.8rem 0rem; 
 
 		@mixin atSmall{
 			font-size: 1.125rem;
