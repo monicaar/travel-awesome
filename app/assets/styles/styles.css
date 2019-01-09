@@ -9,6 +9,4 @@
 @import "modules/_headline";
 @import "modules/_row";
 @import "modules/_myown";
-body{
-	background: rgba(192,192,192,0.4);
-}
+@import "modules/_section-title";
